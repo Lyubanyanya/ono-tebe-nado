@@ -154,7 +154,7 @@
 }
 
 .lots__card-list_item {
-  width: 430px;
+  flex-basis: 430px;
   flex-grow: 1;
 }
 
