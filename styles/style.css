@@ -92,14 +92,14 @@
 .aligned-text_center {
   letter-spacing: 30px;
   text-align: center;
-  line-height: 100%; 
+  line-height: 100%;
   padding-top: 20px;
   }
 
 .aligned-text_right {
   letter-spacing: 30px;
   text-align: right;
-  line-height: 100%; 
+  line-height: 100%;
   padding-top: 20px;
   }
 
@@ -189,7 +189,7 @@
 .card__title {
   font-size: 22px;
   font-weight: 700;
-  line-height: 120%; 
+  line-height: 120%;
   text-decoration-line: underline;
   text-transform: uppercase;
   color:#FFFFFF;
